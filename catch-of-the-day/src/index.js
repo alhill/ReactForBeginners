@@ -1,33 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import React from 'react';
 import { render } from 'react-dom'; //Import one of the methods of ReactDOM
 import { BrowserRouter, Match, Miss } from 'react-router';
