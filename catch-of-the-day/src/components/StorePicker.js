@@ -1,5 +1,4 @@
 import React from 'react';
-import App from "./App";
 import { getFunName } from "../helpers";
 
 class StorePicker extends React.Component{
